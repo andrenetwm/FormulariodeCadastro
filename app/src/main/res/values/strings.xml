@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Formulario de Cadastro</string>
+    <string name="nome">Entre com seu nome</string>
+    <string name="email">Entre com seu e-mail</string>
+    <string name="telefone">Entre com seu telefone</string>
+    <string name="endereco">Entre com seu endereço</string>
+    <string name="cep">Entre com seu CEP</string>
+    <string name="send">Enviar</string>
+
+</resources>
